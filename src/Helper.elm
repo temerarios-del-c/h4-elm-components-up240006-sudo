@@ -36,6 +36,7 @@ hyperlink url linkText =
     a [ href url ] [ text linkText ]
 
 
+
 -- Puedes usar una definición como la siguiente para probar y visualizar tus resultados, solo debes definir "headers" y "hyperlink"
 --main : Html.Html msg
 --main =
